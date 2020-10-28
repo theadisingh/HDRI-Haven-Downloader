@@ -12,7 +12,7 @@ For Example, if you want to download all  hdris belonging to Studio Category in 
 
 Type ```python scraper.py 4k Studio Y```
 
-NOTE: Please use lowercase 'k' when typing the resolution.
+NOTE: * Please use lowercase 'k' when typing the resolution. * Thumbnails are skipped when downloading Tonemapped JPGs. 
 
 ## Credits
 This script is a modified from
