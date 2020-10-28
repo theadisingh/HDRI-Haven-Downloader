@@ -9,10 +9,12 @@ This is a small script to download multiple hdris from hdrihaven.com in the reso
 
 ## How to use
 For Example, if you want to download all  hdris belonging to Studio Category in 4k resolution with Tonemapped JPG.
+
 Type ```python scraper.py 4k Studio Y```
+
 NOTE: Please use lowercase 'k' when typing the resolution.
 
 ## Credits
 This script is a modified from
-https://github.com/Alzy/hdrihaven_dl.git
-https://github.com/ktkk/hdrihaven-downloader.git
+* https://github.com/Alzy/hdrihaven_dl.git
+* https://github.com/ktkk/hdrihaven-downloader.git
